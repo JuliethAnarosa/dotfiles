@@ -61,4 +61,7 @@
   defaultBranch = master
 [user]
 	email = america02anarosa@gmail.com
-	name = JuliethAnarosa
+	name = julieth alvarado
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
